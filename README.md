@@ -28,11 +28,11 @@ Good resource for intro to graphs: https://leetcode.com/discuss/topic/2360573
 
 Be prepared with datastructure questions like Lists, Arrays, Strings, Tries, Priority Queues, Matrices, Trees. <br/>
 Traversal questions like DFS, BFS, LevelOrder, SpiralOrder <br/>
-Two pointer and Sliding Window questions
-Sorting questions like Quick Sort, Merge Sort, Insertion Sort, Topological Sort
-Design questions like LRU Cache, O(1) Min Max Stack
-Dependancy graph type questions like Course schedule
-Graph questions related to Dijkstra, Prims, Kruskal, Bellman Ford, Union Find
+Two pointer and Sliding Window questions <br/>
+Sorting questions like Quick Sort, Merge Sort, Insertion Sort, Topological Sort <br/>
+Design questions like LRU Cache, O(1) Min Max Stack <br/>
+Dependancy graph type questions like Course schedule <br/>
+Graph questions related to Dijkstra, Prims, Kruskal, Bellman Ford, Union Find <br/>
 
 Try to solve problems by looking at the constraints.
 If the input constraint is >= 10^4 then O(N^2) solutions will give TLE. So try to find O(NLogN) or O(N) with memoization.
